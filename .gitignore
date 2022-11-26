@@ -29,5 +29,9 @@ build/
 !**/src/main/**/build/
 !**/src/test/**/build/
 
+### Token Data ###
+
+src/main/resources/application.properties
+
 ### VS Code ###
 .vscode/

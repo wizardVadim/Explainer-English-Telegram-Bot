@@ -8,7 +8,7 @@
 		<version>2.7.6</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.githum.wizardvadim</groupId>
+	<groupId>com.github.wizardvadim</groupId>
 	<artifactId>explainer-english-telegrambot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Explainer English Telegram Bot</name>
@@ -26,6 +26,12 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.telegram</groupId>
+			<artifactId>telegrambots-spring-boot-starter</artifactId>
+			<version>6.3.0</version>
 		</dependency>
 	</dependencies>
 

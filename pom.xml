@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.github.wizardvadim</groupId>
 	<artifactId>explainer-english-telegrambot</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.1.0-SNAPSHOT</version>
 	<name>Explainer English Telegram Bot</name>
 	<description>Telegram bot for people studying English</description>
 	<properties>
